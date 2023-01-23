@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hejsan! 👋
+
+Magnus heter jag och jag är student på Mittuniversitetet där jag läser Webbutveckling! 
+
+Denna sida kommer främst att användas i studiesyfte.
+
+Ha det fint! 😄
 
 <!--
 **mawi2211/mawi2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
